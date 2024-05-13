@@ -37,11 +37,13 @@ conteudo-principal{
 
 }
 .titulo-principal{
-
-
+   text-align: left;
+   width: 100%;
+   font-size:  32px;
+}
+.titulo-principal span{
     
 }
-
 
 
 
