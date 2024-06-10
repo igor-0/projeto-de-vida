@@ -24,28 +24,14 @@ conteudo-principal{
      margin:0 auto;
 
 }
-.titulo-principal{
-   text-align: left;
-   width: 100%;
-   font-size: 32px;
-
-}
-.titulo-principal{
-    text-align: left;
-    width: 100% ;
-    font-size:  32px;
-
-}
-.titulo-principal{
-   text-align: left;
-   width: 100%;
-   font-size:  32px;
+. titulo-principal{
+     text-align: left;
+     margin: 100%;
+     font-size: 32px;
 }
 .titulo-principal span{
-    color: (var(  verde); 
-} 
-.titulo-principal
-    font-family: "crakra petch", sans-serif;
+    color: var(--verde);
+}    
 
 
 
