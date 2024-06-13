@@ -42,12 +42,12 @@ conteudo-principal{
 .botoes{
    font-family: "chakra petch",sans-serif;
    background-color: var(--botao-inativo);
-   color: ;
+   color: var(--branco) ;
+   display: flex;
+   justify-content: center;
+   padding: lem;
+   font-size: 18px;
 }
-
-
-
-
 
 
 
