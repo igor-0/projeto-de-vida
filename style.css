@@ -32,8 +32,18 @@ conteudo-principal{
 .titulo-principal span{
     color: var(--verde);
 }    
-
-
+.botoes{
+   font-family: "chakra petch", sans-serif;
+   background-color: var(--botao-inativo);
+   color: var(--branco);
+   display: flex;
+   justify-content: center;
+}
+.botoes{
+   font-family: "chakra petch",sans-serif;
+   background-color: var(--botao-inativo);
+   color: ;
+}
 
 
 
